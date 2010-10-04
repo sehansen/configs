@@ -3,6 +3,7 @@ My configuration files:
 
 etc:
   slim.conf - decent themes enabled, xmonad only option
+  wpa_supplicant/wpa_supplicant.conf - PBK, DTU, assorted free wireless spots, Eduroam stub
 
 home:
   .xmonad/xmonad.hs - not the worlds best xmonad configuration
