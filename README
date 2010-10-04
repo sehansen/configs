@@ -3,3 +3,8 @@ My configuration files:
 
 etc:
   slim.conf - decent themes enabled, xmonad only option
+
+home:
+  .xmonad/xmonad.hs - not the worlds best xmonad configuration
+  .config:
+    uzbl/config - not quite sane yet either
